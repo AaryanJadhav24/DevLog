@@ -135,6 +135,4 @@ Big thanks to:
 
 Made with ❤️ and lots of caffeine by **Aaryan Jadhav**, a curious CS grad on a journey to become a better developer.
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=your-vercel-link)
-
 [![Netlify Status](https://api.netlify.com/api/v1/badges/80185834-86bc-42ec-b376-573c6573db46/deploy-status)](https://app.netlify.com/projects/tranquil-truffle-d2838f/deploys)
