@@ -5,7 +5,7 @@ import './index.css';
 import axios from 'axios';
 
 // Configure axios defaults
-axios.defaults.baseURL = 'https://devlog-tbk8.onrender.com';  // FastAPI backend URL
+axios.defaults.baseURL = import.meta.env.VITE_API_BASE_URL;  // FastAPI backend URL
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
