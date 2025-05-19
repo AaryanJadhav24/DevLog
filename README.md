@@ -134,3 +134,6 @@ Big thanks to:
 ---
 
 Made with ❤️ and lots of caffeine by **Aaryan Jadhav**, a curious CS grad on a journey to become a better developer.
+
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=your-vercel-link)
+
