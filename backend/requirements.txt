@@ -1,0 +1,28 @@
+# API Framework
+fastapi>=0.68.0
+uvicorn>=0.15.0
+
+# Database
+sqlalchemy>=1.4.23
+databases>=0.5.2
+aiosqlite>=0.17.0
+
+# API Schema and Validation
+pydantic>=1.8.2
+
+# HTTP Client for OpenRouter API
+httpx>=0.23.0
+
+# Environment Variables
+python-dotenv>=0.19.0
+
+# CORS
+starlette>=0.14.2
+
+# Date handling
+python-dateutil>=2.8.2
+
+# Development
+black>=21.7b0  # Code formatting
+flake8>=3.9.2  # Linting
+pytest>=6.2.5  # Testing

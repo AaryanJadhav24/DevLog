@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>DevLog Code Icon</title>
+    <g stroke="#0ea5e9" stroke-width="2" fill="none">
+        <!-- Left bracket -->
+        <path d="M9,4 L4,12 L9,20"></path>
+        <!-- Right bracket -->
+        <path d="M15,4 L20,12 L15,20"></path>
+        <!-- Slash -->
+        <path d="M12,4 L12,20" stroke-dasharray="2,2"></path>
+    </g>
+</svg>
