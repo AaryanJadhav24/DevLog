@@ -8,7 +8,7 @@ app = FastAPI(title="DevLog API")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://tranquil-truffle-d2838f.netlify.app"],
+    allow_origins=["http://localhost:5173", "http://localhost:5174", "https://tranquil-truffle-d2838f.netlify.app"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
